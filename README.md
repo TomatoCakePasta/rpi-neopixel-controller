@@ -1,1 +1,1 @@
-# rep-neopixel-controller
+# rpi-neopixel-controller
